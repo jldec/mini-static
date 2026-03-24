@@ -1,4 +1,5 @@
-very small static site
-no deps
+# mini-static
 
-build script just copies a file into dist
+very small static site, no deps
+
+`npm run build` copies a file to `./dist`
