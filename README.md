@@ -7,7 +7,3 @@ very small static site, no deps
 chips ahoy.
 biscuits.  
 1.  
-2.  
-3.  
-4.  
-5. 
